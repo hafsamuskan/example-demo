@@ -9,4 +9,4 @@ git remote set-url origin
 
 git push origin master
 
-Updating the commands.txt from the GitHub
+Updating the commands.txt from the GitHub.
